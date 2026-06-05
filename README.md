@@ -2,9 +2,8 @@ Gerador de Conteúdo para E-commerce com IA
 Um sistema full-stack que recebe o nome ou link de um produto e usa IA (Google Gemini) para gerar automaticamente: títulos otimizados, descrições para Mercado Livre/Shopee, palavras-chave e posts para Instagram. Todo conteúdo é salvo em um painel para consulta e reutilização.
 User Review Required
 > [!IMPORTANT]
-> **API Key do Gemini**: Você vai precisar de uma API key gratuita do Google Gemini. Pode criar em [Google AI Studio](https://aistudio.google.com/apikey). Vou configurar o projeto para ler de um arquivo `.env`.
 > [!NOTE]
-> **Escopo inicial**: O plano foca na versão MVP funcional. Funcionalidades como autenticação de usuário, scraping automático de links e exportação em massa podem ser adicionadas depois.
+> Escopo inicial: O plano foca na versão MVP funcional. Funcionalidades como autenticação de usuário, scraping automático de links e exportação em massa podem ser adicionadas depois.
 Arquitetura Geral
 ```mermaid
 graph LR
@@ -15,14 +14,14 @@ graph LR
 Stack Tecnológica
 Camada	Tecnologia	Motivo
 Frontend	React 18 + TypeScript + Vite	Rápido, moderno, tipado
-Estilo	CSS puro (design premium)	Controle total, sem dependência
+Estilo	CSS puro Controle total, sem dependência
 Backend	Node.js + Express + TypeScript	Simples, robusto, tipado
-Banco	SQLite + Prisma ORM	Zero config, migrations fáceis
-IA	Google Gemini API (`@google/genai`)	Gratuito, poderoso
-HTTP Client	Axios (frontend)	Interceptors, tipagem
+Banco SQLite + Prisma ORM Zero config, migrations fáceis
+IA	Google Gemini API (`@google/genai`)	
+HTTP Client	Axios (frontend) Interceptors, tipagem
 Estrutura do Projeto
 ```
-C:\Users\Gabriela\.gemini\antigravity\scratch\ecommerce-content-generator\
+ecommerce-content-generator\
 ├── client/                          # Frontend React
 │   ├── public/
 │   ├── src/

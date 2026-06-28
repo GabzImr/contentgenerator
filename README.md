@@ -1,6 +1,18 @@
-[![Status](https://img.shields.io/badge/status-em%20produ%C3%A7%C3%A3o-brightgreen)](#deploy)
+(https://img.shields.io/badge/status-em%20produ%C3%A7%C3%A3o-brightgreen)](#deploy)
 Gerador de Conteúdo para E-commerce com IA
 Um sistema full-stack que recebe o nome ou link de um produto e usa IA (Google Gemini) para gerar automaticamente: títulos otimizados, descrições para Mercado Livre/Shopee, palavras-chave e posts para Instagram. Todo conteúdo é salvo em um painel para consulta e reutilização.
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg
+https://cdn.simpleicons.org/googlegemini
+https://cdn.simpleicons.org/axios
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg
 User Review Required
 > [!IMPORTANT]
 > [!NOTE]
@@ -255,3 +267,11 @@ Verificar botões de copiar funcionam
 Verificar que aparece no Dashboard
 Testar deletar um conteúdo
 Testar responsividade no mobile
+
+Tela Inicial.
+<img width="1884" height="910" alt="Captura de tela_28-6-2026_191045_localhost" src="https://github.com/user-attachments/assets/09c75846-0d13-47f7-8170-12445386872b" />
+Gerando Informações.
+<img width="1880" height="965" alt="Captura de tela_28-6-2026_19121_localhost" src="https://github.com/user-attachments/assets/f5a1c79c-4b9e-4b5f-880f-2bd07ea07125" />
+Informações.
+<img width="1883" height="2225" alt="Captura de tela_28-6-2026_191238_localhost" src="https://github.com/user-attachments/assets/33cf12ea-8b94-4cf1-bf82-5a1daf6c15f1" />
+

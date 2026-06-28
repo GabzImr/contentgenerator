@@ -6,7 +6,7 @@ export default function HomePage() {
   const [name, setName] = useState('');
   const [link, setLink] = useState('');
   
-  // States da calculadora
+
   const [costPrice, setCostPrice] = useState<number>(0);
   const [marketplaceFee, setMarketplaceFee] = useState<number>(0);
   const [desiredMargin, setDesiredMargin] = useState<number>(0);
@@ -15,7 +15,7 @@ export default function HomePage() {
   const [result, setResult] = useState<any>(null);
   const [history, setHistory] = useState<any[]>([]);
 
-  // Carrega o histórico ao iniciar o painel
+
   const fetchHistory = async () => {
     try {
       const response = await axios.get('/api/contents');

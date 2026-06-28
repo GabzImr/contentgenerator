@@ -1,18 +1,35 @@
 (https://img.shields.io/badge/status-em%20produ%C3%A7%C3%A3o-brightgreen)](#deploy)
 Gerador de Conteúdo para E-commerce com IA
 Um sistema full-stack que recebe o nome ou link de um produto e usa IA (Google Gemini) para gerar automaticamente: títulos otimizados, descrições para Mercado Livre/Shopee, palavras-chave e posts para Instagram. Todo conteúdo é salvo em um painel para consulta e reutilização.
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg
-https://cdn.simpleicons.org/googlegemini
-https://cdn.simpleicons.org/axios
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 User Review Required
 > [!IMPORTANT]
 > [!NOTE]

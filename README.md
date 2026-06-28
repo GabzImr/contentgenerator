@@ -1,4 +1,3 @@
-(https://img.shields.io/badge/status-em%20produ%C3%A7%C3%A3o-brightgreen)](#deploy)
 Gerador de Conteúdo para E-commerce com IA
 Um sistema full-stack que recebe o nome ou link de um produto e usa IA (Google Gemini) para gerar automaticamente: títulos otimizados, descrições para Mercado Livre/Shopee, palavras-chave e posts para Instagram. Todo conteúdo é salvo em um painel para consulta e reutilização.
 

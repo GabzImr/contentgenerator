@@ -8,11 +8,15 @@ generator client {
 }
 
 model Product {
-  id        String    @id @default(cuid())
-  name      String
-  link      String?
-  createdAt DateTime  @default(now())
-  contents  Content[]
+  id                String    @id @default(cuid())
+  name              String
+  link              String?
+  costPrice         Float     @default(0)  // Custo do produto
+  marketplaceFee    Float     @default(0)  // Taxa (%) do canal
+  desiredMargin     Float     @default(0)  // Margem desejada (%)
+  suggestedPrice    Float     @default(0)  // Preço ideal final calculado
+  createdAt         DateTime  @default(now())
+  contents          Content[]
 }
 
 model Content {
@@ -20,11 +24,11 @@ model Content {
   productId         String
   product           Product  @relation(fields: [productId], references: [id], onDelete: Cascade)
   title             String
+  titleScore        Int      @default(0)   // Score de 0 a 100 do título
   descriptionML     String
   descriptionShopee String
-  keywords          String   // Guardado como string JSON
+  keywords          String                 // Guardado como string JSON
   instagramPost     String
   instagramHashtags String
   createdAt         DateTime @default(now())
 }
-
